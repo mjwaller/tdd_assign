@@ -1,0 +1,13 @@
+{
+  "name": "tdd_assign",
+  "version": "1.0.0",
+  "description": "",
+  "main": "portfolio.js",
+  "type": "module",
+   "scripts": {
+     "test": "cross-env NODE_OPTIONS=--experimental-vm-modules jest"
+	},
+    "jest": {
+      "transform": {}
+    }
+}
